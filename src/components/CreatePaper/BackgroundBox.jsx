@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import BackgroundSelector from './BackgroundSelector';
 import BackgroundText from './BackgroundText';
